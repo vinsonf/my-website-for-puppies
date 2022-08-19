@@ -1,0 +1,28 @@
+.flex-right{
+    display: flex;
+    justify-content: flex-end;
+}
+.flex-left{
+    display: flex;
+    justify-content: flex-start;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+
+.bg-primary{
+    background-color: rgb(0, 255, 0) !important;
+}
+
+.bg-info{
+    background-color: rgb(170, 0, 255) !important;
+}
+
+.font-primary{
+    font-family: 'Roboto', sans-serif !important;
+}
+.font-secondary{
+    /* different font */
+    font-family: 'Cursive', sans-serif !important;
+}
